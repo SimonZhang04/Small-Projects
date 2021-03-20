@@ -180,6 +180,7 @@ def choose_board():
     a board. It returns a list with the row and column of the board selected by the user."""
 
     boards = [[5, 6], [5, 7], [5, 8], [6, 6], [6, 7], [6, 8], [7, 6], [7, 7], [7, 8]]
+    
     print("Which board size would you like to play?")
     print("""
 1. 5x6
